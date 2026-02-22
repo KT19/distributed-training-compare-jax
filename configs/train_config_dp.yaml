@@ -1,0 +1,7 @@
+batch: 8
+log_every: 50
+output_dir: outputs/dp
+parallel: dp
+seed: 0
+steps: 5000
+
